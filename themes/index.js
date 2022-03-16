@@ -361,6 +361,12 @@ const themes = {
     text_color: "e0def4",
     bg_color: "191724",
   }
+    "tecno_code": {
+    title_color: "9745f5",
+    icon_color: "9f4bff",
+    text_color: "7fff00",
+    bg_color: "000000",
+  },
 };
 
 module.exports = themes;
